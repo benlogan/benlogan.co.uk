@@ -1,0 +1,161 @@
+{
+    "header": {
+        "title": "Ben Logan",
+        "description": "The professional CV of Ben Logan."
+    },
+    "contact": {
+        "name": "Ben Logan",
+        "email": "benlogan1981@gmail.com",
+        "website": {
+            "title": "Ben Logan",
+            "url": "http://benlogan.co.uk"
+        },
+        "blog": {
+            "title": "Ben Logan Blog",
+            "url": "http://blahblahblah.com/blog"
+        }
+    },
+    "summary": [
+        "A flexible and adaptable Software Developer who can quickly adjust to new business domains and new technologies.",
+        "An energised IT professional with extensive experience of application specification, design, development, deployment, testing and maintenance. A large portfolio of applications that have been taken into a production environment, across a variety of technologies and platforms.",
+        "A proven deliverer of innovative and intelligent solutions and a confident, creative and responsible employee. A certified Scrum Master, a proven problem solver and solid team player. A firm believer in the value of communication and business engagement.",
+        "A passionate interest in Data Visualisation, Analytics, Business Intelligence & Reporting."
+    ],
+    "summary_ubs": {
+        "summary": "An active member of staff at UBS and always heavily involved in the department and the wider UBS community. Responsible for a number of non-technical initiatives.",
+        "details": [
+            "Part of a small team who organise social events on behalf of the department. This has included a number of lunch time trips, for example a Bank of England tour and a trip round the London offices of Bloomberg. Also responsible for organising technical ‘brown-bag’ sessions that cover a variety of topics, for example ‘the hurdles to agile adoption (within UBS)’",
+            "Organisation of an annual community volunteering event; a team of 20-30 people undertaking various tasks in the community on behalf of UBS (e.g. Burbage Primary School maintenance).",
+            "Organisation of a weekly 5 a-side football game; originally intended for members of the department – but now including staff from across UBS."
+        ]
+    },
+    "summary_ubs_technical": {
+        "summary": "In-depth knowledge of the full software development lifecycle and a leader in the area of process improvement.",
+        "details": [
+            "Defect/change management. Responsible for prioritisation, estimation and planning. Extensive use of the Atalasian stack; Confluence, JIRA, FishEye.",
+            "Tools management, for example providing packaged eclipse installations. Recognise the need to provide a comfortable and efficient working environment for the team (for example use of the Mylyn task manager in within eclipse).",
+            "Code reviews, repository management (Clearcase/Subversion) and continuous integration (Cruisecontrol/Hudson). Release management.",
+            "Testing and quality control. Unit Testing and various other forms; test driven development, test harnesses and load testing.",
+            "Production Support – our applications are widely used across UBS and around the world. Development staff are on hand 24/7 for issues escalated by the dedicated support teams."
+        ]
+    },
+    "skills": [
+        "Over 10 years of experience in developing and delivering commercial software using a combination of agile and traditional development methodologies. Experienced in the use of Design Patterns (for example, MVC and Model-2) and Agile development methodologies (in particular, Scrum).",
+        "Over 10 years of commercial Java experience. This includes exposure to development tools such as the Eclipse IDE and specialist extensions/APIs; Spring, Apache/Tomcat, JDBC, XMLbeans etc.",
+        "Extensive experience of a variety of other tools and technologies, including .NET (primarily C#), most RDBMS’s (Oracle, PostgreSQL, MySQL, SQL Server) and a number of content management systems (e.g. SharePoint & Documentum). Microsoft Office Add-in/customisation development experience, in both Word & Excel.",
+        "Competent UNIX developer with significant experience of developing server based Java solutions, typically hosted in an Apache/Tomcat container."
+    ],  
+    "university": [
+        {
+            "institution": "Newcastle University",
+            "degree": "BSc (Hon's) - Computing Science",
+            "summary": "The ability to apply relevant theory to the solution of problems and to the analysis of existing algorithms and techniques, and can recommend techniques and algorithms appropriate to specific circumstances.",
+            "start": "1999",
+            "end": "2003",
+            "detail": [
+                "Group Project (1st Class). Final Year Project – Java App (1st Class)."
+            ]
+        }
+    ],
+    "employment": [
+        {
+            "company": "UBS",
+            "website": "http://www.ubs.com",
+            "address": "London, UK",
+            "role": "Project Manager",
+            "project": "UBS Neo",
+            "start": "Mar 2013",
+            "end": "Present",
+            "summary": "Project Manager with responsibility for the technical delivery of Research related functionality on UBS Neo.",
+            "responsibilities": [
+                "FAK; a Java based in-memory cache that allows rapid access to Research data.",
+                "A series of Flex based applications and panels that serve this Research data to clients.",
+                "A number of other functional areas, for example Research Multimedia and the legacy Research Client Portal."
+            ]
+        },
+        {
+            "company": "UBS",
+            "website": "http://www.ubs.com",
+            "address": "London, UK",
+            "role": "Software Developer",
+            "project": "Research Data",
+            "start": "Mar 2010",
+            "end": "Feb 2013",
+            "summary": "Formed part of a Scrum team that was responsible for a number of applications.",
+            "responsibilities": [
+                "BlueBox; a Java web-based calculation engine for providing financial data to research analysts. This was a middle-tier between a large a data warehouse and the actual UI.",
+                "AlphaKeyLink; an Excel based (C#) front-end application to pull and manipulate data from the BlueBox calculation engine."
+            ]
+        },
+        {
+            "company": "UBS",
+            "website": "http://www.ubs.com",
+            "address": "London, UK",
+            "role": "Software Developer",
+            "project": "Research Publishing",
+            "start": "Aug 2006",
+            "end": "Feb 2010",
+            "summary": "Technical lead on the project responsible for all technical contributions, with technical ownership of a number of projects within the research publishing arena. Led a team of three developers and managed technical contributions from our PM and the departments architects. This role involved delegating development tasks and managing the development/release cycle.",
+            "responsibilities": [
+                "RPP; a Documentum solution for research content storage and workflow.",
+                "CT; a Java based content transfer server for streaming research content from a client’s desktop to the content management system.",
+                "FM; a C# service application for generating PDF ‘renditions’ of research content.",
+                "CPM; a traditional Java web application for managing the printing and costing of research documents."
+            ]
+        },
+        {
+            "company": "Newcastle University",
+            "website": "http://www.ncl.ac.uk/business/collaboration/consultancy/",
+            "address": "Newcastle, UK",
+            "role": "Software Developer",
+            "start": "Sep 2003",
+            "end": "Aug 2006",
+            "summary": "Software consultant for a small engineering consultancy, known as RCID, that had span off Newcastle University. Responsible for a number of innovative and challenging software development projects including a visualization of the Newcastle University campus for a “Science City” proposal; resulting in a presentation to Gordon Brown.",
+            "responsibilities": [
+                "Involvement in numerous Software & IT projects. For example an ASP.NET Enquiry & Time Management tool and a C# Crystal Reports application for a City IT security specialist.",
+                "Solely responsible for setting up the company’s first regional office, in London; arranging office space and producing the business plans and strategy.",
+                "Successfully negotiated and priced a number of projects in the first few months. ",
+                "Designed and implemented a Risk Management tool for a multi-national Pipeline Inspection company that successfully integrated with an existing on-site software package. This application was written in C# .NET, interfacing to existing VB systems with a PostgreSQL back-end.",
+                "Responsible for the specification, design, implementation and maintenance of a novel online design tool for a large manufacturing business (with world-wide distribution). This application was developed in Java using Apache Tomcat as a server with an Oracle back-end."
+            ]
+        }
+    ],
+    "employment_historic": [
+        {
+            "company": "Fisher Foods Ltd",
+            "website": "",
+            "address": "Newcastle, UK",
+            "role": "Logistics Credit Controller",
+            "start": "Dec 2000",
+            "end": "Mar 2001",
+            "summary": "Reporting to the Logistics Manager I liaised with the Finance Department to transfer the credit control function to the Logistics Department."
+        },
+                {
+            "company": "Fisher Foods Ltd",
+            "website": "",
+            "address": "Newcastle, UK",
+            "role": "Production Administrator",
+            "start": "June 2000",
+            "end": "Sept 2000",
+            "summary": "Reporting to the Technical Manager and Production Manager I developed new recording and reporting systems for productivity levels on key production lines."
+        },
+                {
+            "company": "Fisher Foods Ltd",
+            "website": "",
+            "address": "Newcastle, UK",
+            "role": "Stock Control Assistant",
+            "start": "Dec 1999",
+            "end": "Mar 2000",
+            "summary": "Reporting to the Stock Control Manager I assisted with the implementation of a computerised production monitoring system, Movex, in Stock Control."
+        },
+        {
+            "company": "Fisher Foods Ltd",
+            "website": "",
+            "address": "Newcastle, UK",
+            "role": "Stock Control Assistant",
+            "start": "June 1999",
+            "end": "Sept 1999",
+            "summary": "Reporting to the Stock Control Manager I monitored stock movements of raw materials and finished goods that were being stock piled for a major sales promotion."
+        }
+    ]
+}
