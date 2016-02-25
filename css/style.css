@@ -5,7 +5,7 @@ html, body {
 }
 body
 {
-    background-color: #FF847C;
+    background-color: #F2EEEA;
     padding-top: 60px;
     'font-family: "Gill Sans";
 }
@@ -29,6 +29,10 @@ body
 	color: black;
 	font-size: 80pt;
 }
+/*
+http://www.colourlovers.com/digital-art/trends/branding/7883/Delicious_Logo
+colour for masthead 5F5E5D 
+*/
 #headerBar {
     height: 40px;
     background: blue
@@ -43,8 +47,10 @@ body
 #documentControls {
     float: right;
 }
-.benspanel {
-    background-color: white;
+.ben-text-container {
+    /*background-color: white;*/
+    background-color: #F2EEEA;
+    padding: 5px;
 }
 /*
 .theme-showcase {
@@ -52,5 +58,5 @@ body
 }*/
 /* lets override a few bootstrap styles */
 .jumbotron {
-    background-color: #FECEA8;
+    background-color: #E87162;
 }
