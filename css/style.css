@@ -58,5 +58,16 @@ colour for masthead 5F5E5D
 }*/
 /* lets override a few bootstrap styles */
 .jumbotron {
-    background-color: #E87162;
+    /*background-color: #E87162;*/
+    background-color: #B4B2AE;
+}
+/*
+.myfooter {
+    font-size: 8pt;
+    background-color: #FECEA8;
+}*/
+.img-circle {
+    float: right;
+    margin: 0 0 10px 10px;
+    border-radius: 50%;
 }

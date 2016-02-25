@@ -25,27 +25,27 @@
             <h1>{{this.header.title}}</h1>
 
             <div class="ben-text-container">
-                <h3><!--<span class="glyphicon glyphicon-pencil">--></span> Profile</h3>
+                <h3><!--<span class="glyphicon glyphicon-pencil"></span>-->Profile</h3>
                 <ul class="list-group">{{#each summary}}<li class="list-group-item"><span class="glyphicon glyphicon-ok"></span> {{this}}</li>{{/each}}</ul>
             </div>
             
             <div class="ben-text-container">
-                <h3><!--<span class="glyphicon glyphicon-pencil">--></span> Technical Skills</h3>
+                <h3><!--<span class="glyphicon glyphicon-pencil"></span>-->Technical Skills</h3>
                 <ul class="list-group">{{#each skills}}<li class="list-group-item"><span class="glyphicon glyphicon-ok"></span> {{this}}</li>{{/each}}</ul>
             </div>
 
             <div class="ben-text-container">
                 <h3><!--<span class="glyphicon glyphicon-pencil"></span>--> Professional Summary</h3>
-                {{this.summary_ubs.summary}}
-                <ul class="list-group">{{#each summary_ubs.details}}<li class="list-group-item"><span class="glyphicon glyphicon-ok"></span> {{this}}</li>{{/each}}</ul>
                 {{this.summary_ubs_technical.summary}}
                 <ul class="list-group">{{#each summary_ubs_technical.details}}<li class="list-group-item"><span class="glyphicon glyphicon-ok"></span> {{this}}</li>{{/each}}</ul>
+                {{this.summary_ubs.summary}}
+                <ul class="list-group">{{#each summary_ubs.details}}<li class="list-group-item"><span class="glyphicon glyphicon-ok"></span> {{this}}</li>{{/each}}</ul>
             </div>
             
             <div class="ben-text-container">
                 <h3><!--<span class="glyphicon glyphicon-pencil"></span>--> Professional History</h3>
                 {{#each employment}}
-                    <h3><span class="glyphicon glyphicon-briefcase"></span> {{this.company}}. {{this.role}}. {{this.project}}</h3>
+                    <h3><!--<span class="glyphicon glyphicon-briefcase"></span>-->{{this.company}} - {{this.role}} - {{this.project}}</h3>
                     <h5><span class="glyphicon glyphicon-calendar"></span> {{this.start}} - {{this.end}}</h5>
                     <h4>{{this.summary}}</h4>
                     <ul class="list-group">{{#each this.responsibilities}}<li class="list-group-item"><span class="glyphicon glyphicon-ok"></span> {{this}}</li>{{/each}}</ul>
@@ -102,7 +102,7 @@
                 <!-- top level bootstrap themed container -->
                 <div class="container theme-showcase" role="main">
                     <div id="documentControls">
-                        <h2 style="float: left; padding-right: 10px;" id="benspointer" class="hidden-print" onclick="window.open('downloads/BenLogan.pdf');"><span class="glyphicon glyphicon-file"></span> PDF</h2>
+                        <h2 style="float: left; padding-right: 10px;" id="benspointer" class="hidden-print" onclick="window.open('downloads/BenLoganCV.pdf');"><span class="glyphicon glyphicon-file"></span> PDF</h2>
                         <h2 style="float: right" id="benspointer" class="hidden-print" onclick="window.print();"><span class="glyphicon glyphicon-print"></span> Print</h2>
                     </div>
 
@@ -110,6 +110,7 @@
                 </div>
                 
             </div>
+
         </div>
         
         <!-- Placed at the end of the document so the pages load faster -->

@@ -43,7 +43,7 @@
         "Over 10 years of experience in developing and delivering commercial software using a combination of agile and traditional development methodologies. Experienced in the use of Design Patterns (for example, MVC and Model-2) and Agile development methodologies (in particular, Scrum).",
         "Over 10 years of commercial Java experience. This includes exposure to development tools such as the Eclipse IDE and specialist extensions/APIs; Spring, Apache/Tomcat, JDBC, XMLbeans etc.",
         "Extensive experience of a variety of other tools and technologies, including .NET (primarily C#), most RDBMS’s (Oracle, PostgreSQL, MySQL, SQL Server) and a number of content management systems (e.g. SharePoint & Documentum). Microsoft Office Add-in/customisation development experience, in both Word & Excel.",
-        "Competent UNIX developer with significant experience of developing server based Java solutions, typically hosted in an Apache/Tomcat container."
+        "Skilled UNIX developer with significant experience of developing server based Java solutions, typically hosted in an Apache/Tomcat container."
     ],  
     "university": [
         {
@@ -62,10 +62,25 @@
             "company": "UBS",
             "website": "http://www.ubs.com",
             "address": "London, UK",
-            "role": "Project Manager",
-            "project": "UBS Neo",
-            "start": "Mar 2013",
+            "role": "Research Solutions Architect",
+            "project": "Research (Director)",
+            "start": "Dec 2015",
             "end": "Present",
+            "summary": "Solutions Architect covering the change program in Research IT, with specific focus on content authoring, workflow, publishing and distribution systems.",
+            "responsibilities": [
+                "HTML Research. Lead the technical aspects of a move from PDF to HTML as our primary content format.",
+                "Interactive Content. Design and implement a scalable platform for producing rich, engaging data visualisations.",
+                "Oversight of numerous other high profile change projects, such as the move to mobile and web based authoring and the integration of Adobe Marketing Cloud applications."
+            ]
+        },
+        {
+            "company": "UBS",
+            "website": "http://www.ubs.com",
+            "address": "London, UK",
+            "role": "Project Manager",
+            "project": "UBS Neo (Associate Director)",
+            "start": "Mar 2013",
+            "end": "Dec 2015",
             "summary": "Project Manager with responsibility for the technical delivery of Research related functionality on UBS Neo.",
             "responsibilities": [
                 "FAK; a Java based in-memory cache that allows rapid access to Research data.",
@@ -78,7 +93,7 @@
             "website": "http://www.ubs.com",
             "address": "London, UK",
             "role": "Software Developer",
-            "project": "Research Data",
+            "project": "Research Data (Authorised Officer)",
             "start": "Mar 2010",
             "end": "Feb 2013",
             "summary": "Formed part of a Scrum team that was responsible for a number of applications.",
@@ -92,7 +107,7 @@
             "website": "http://www.ubs.com",
             "address": "London, UK",
             "role": "Software Developer",
-            "project": "Research Publishing",
+            "project": "Research Publishing (Non Officer)",
             "start": "Aug 2006",
             "end": "Feb 2010",
             "summary": "Technical lead on the project responsible for all technical contributions, with technical ownership of a number of projects within the research publishing arena. Led a team of three developers and managed technical contributions from our PM and the departments architects. This role involved delegating development tasks and managing the development/release cycle.",
@@ -108,6 +123,7 @@
             "website": "http://www.ncl.ac.uk/business/collaboration/consultancy/",
             "address": "Newcastle, UK",
             "role": "Software Developer",
+            "project": "HEIF",
             "start": "Sep 2003",
             "end": "Aug 2006",
             "summary": "Software consultant for a small engineering consultancy, known as RCID, that had span off Newcastle University. Responsible for a number of innovative and challenging software development projects including a visualization of the Newcastle University campus for a “Science City” proposal; resulting in a presentation to Gordon Brown.",
