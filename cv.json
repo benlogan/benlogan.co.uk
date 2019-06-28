@@ -17,7 +17,7 @@
         "A proven deliverer of innovative and intelligent solutions and a confident, creative and responsible employee. A certified Scrum Master, a proven problem solver and solid team player. A firm believer in the value of communication and business engagement.",
         "A passionate interest in Data Visualisation, Analytics, Business Intelligence & Reporting."
     ],
-    "summary_ubs": {
+    "summary_soft": {
         "summary": "Always an active member of staff and always heavily involved in the department and the wider corporate community. Responsible for a number of non-technical initiatives.",
         "details": [
             "In the past I've been part of social events teams. This has included a number of lunch time trips, for example a Bank of England tour and a trip round the London offices of Bloomberg. Also responsible for organising technical ‘brown-bag’ sessions that cover a variety of topics, for example ‘the hurdles to agile adoption (within UBS)’",
@@ -25,7 +25,7 @@
             "Organisation of a weekly 5 a-side football game."
         ]
     },
-    "summary_ubs_technical": {
+    "summary_technical": {
         "summary": "In-depth knowledge of the full software development lifecycle and a leader in the area of process improvement.",
         "details": [
             "Defect/change management. Responsible for prioritisation, estimation and planning. Extensive use of the Atalasian stack; Confluence, JIRA, FishEye.",
@@ -55,13 +55,29 @@
     ],
     "employment": [
         {
+          "company": "UBS",
+          "website": "http://www.ubs.com",
+          "address": "London, UK",
+          "role": "Development Manager",
+          "project": "Evidence Lab",
+          "start": "Sept 2018",
+          "end": "Present",
+          "summary": "Dev Manager and Architect on the client-facing Evidence Lab platform - encompassing web portal and API's",
+          "responsibilities": [
+              "Client Platform (UBS Neo)",
+              "Digital Data Distribution (APIs)",
+              "Site Reliability Engineering Champion",
+              "DevOps & Agile evangelist"
+          ]
+        },
+        {
             "company": "Exane BNP Paribas",
             "website": "http://www.exane.com",
             "address": "London, UK",
             "role": "Solution Architect",
             "project": "Research & Data Tech",
             "start": "Sept 2017",
-            "end": "Present",
+            "end": "Sept 2018",
             "summary": "Solution Architect covering Research, CRM & Sales, with specific focus on future strategy & innovation.",
             "responsibilities": [
                 "Digital Publishing Strategy",
